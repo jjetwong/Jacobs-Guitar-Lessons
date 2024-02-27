@@ -221,11 +221,11 @@ nav #homeButton {
 }
 .titleDiscount {
   width: 300px;
+  margin: auto;
   text-align: center;
   animation: glow 2s ease-in-out infinite alternate;
   position: relative;
   top: 300px;
-  left: 60vw;
   font-size: 40px;
   color: #ff2f2f;
 }
