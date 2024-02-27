@@ -227,11 +227,11 @@ nav #homeButton {
   position: relative;
   top: 300px;
   font-size: 40px;
-  color: #ff2f2f;
+  color: #edddd4;
 }
 @keyframes glow {
   from {
-    text-shadow: 0 0 10px #ff2f2f;
+    text-shadow: 0 0 10px #edddd4;
   }
 }
 
